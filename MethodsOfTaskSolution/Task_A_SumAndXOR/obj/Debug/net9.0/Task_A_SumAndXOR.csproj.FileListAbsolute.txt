@@ -1,0 +1,14 @@
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\bin\Debug\net9.0\Task_A_SumAndXOR.exe
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\bin\Debug\net9.0\Task_A_SumAndXOR.deps.json
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\bin\Debug\net9.0\Task_A_SumAndXOR.runtimeconfig.json
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\bin\Debug\net9.0\Task_A_SumAndXOR.dll
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\bin\Debug\net9.0\Task_A_SumAndXOR.pdb
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\obj\Debug\net9.0\Task_A_SumAndXOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\obj\Debug\net9.0\Task_A_SumAndXOR.AssemblyInfoInputs.cache
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\obj\Debug\net9.0\Task_A_SumAndXOR.AssemblyInfo.cs
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\obj\Debug\net9.0\Task_A_SumAndXOR.csproj.CoreCompileInputs.cache
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\obj\Debug\net9.0\Task_A_SumAndXOR.dll
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\obj\Debug\net9.0\refint\Task_A_SumAndXOR.dll
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\obj\Debug\net9.0\Task_A_SumAndXOR.pdb
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\obj\Debug\net9.0\Task_A_SumAndXOR.genruntimeconfig.cache
+C:\Users\Maksim Razhev\OneDrive\Desktop\алгоритмы4\Task_A_SumAndXOR\Task_A_SumAndXOR\obj\Debug\net9.0\ref\Task_A_SumAndXOR.dll
